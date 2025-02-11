@@ -29,4 +29,5 @@ This project is open-source and available under the MIT License.
 
 ## 📬 Contact
 🔗 Portfolio: https://damay.netlify.app/
+
 📧 Email: damayanti.d.a@mail.ugm.ac.id
