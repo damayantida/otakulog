@@ -15,7 +15,7 @@ A sleek and modern anime search platform that lets you explore and discover tren
 ## 💻 Installation & Setup  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/otakulog.git
+   git clone https://github.com/damayantida/otakulog.git
    cd otakulog
 2. **Install dependencies**
    ```sh
