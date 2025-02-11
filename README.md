@@ -4,7 +4,6 @@ A sleek and modern anime search platform that lets you explore and discover tren
 ## 🚀 Features  
 ✅ **Debounced Search** – Fast and efficient anime search with input delay handling.  
 ✅ **Infinite Scrolling** – Seamlessly loads more results as you scroll.  
-✅ **Trending System** – Tracks the most searched anime dynamically.  
 ✅ **Responsive UI** – Optimized for both desktop and mobile.  
 
 ## 🛠 Tech Stack  
