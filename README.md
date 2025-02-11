@@ -10,10 +10,7 @@ A sleek and modern anime search platform that lets you explore and discover tren
 ## 🛠 Tech Stack  
 - **Frontend:** React, TypeScript, Tailwind CSS  
 - **Backend & Database:** Appwrite (for trending system)  
-- **API:** Jikan API (Anime data)  
-
-## 📸 Screenshots  
-_Add some screenshots here if available._  
+- **API:** Jikan API (Anime data)   
 
 ## 💻 Installation & Setup  
 1. **Clone the repository**  
